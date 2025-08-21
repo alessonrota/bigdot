@@ -1,4 +1,4 @@
-# Roçambola — Robô da Horta Quilombola - Big Dot
+# Roçambola — Robô da Roça Quilombola - Big Dot
 
 
 ## Estrutura de pastas
